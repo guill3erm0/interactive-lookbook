@@ -2,7 +2,7 @@
 
 > Un experimento para recrear la experiencia de compra de una marca de moda High-End.
 
-![Vista Previa](./preview.png)
+![Vista Previa](./preview.PNG)
 
 
 ##  Tecnologías
